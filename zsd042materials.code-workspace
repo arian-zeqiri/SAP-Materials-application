@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "zsd042material",
+			"path": "../../../Materials application/zsd042material"
+		},
+		{
+			"name": "zsd042materials",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
